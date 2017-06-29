@@ -1,6 +1,7 @@
 # Make-Effective-Data-Visualization
 Project - 07 , Udacity Data Analyst Nanodegree
-
+### by RAHUL PATRA
+29th June,2017
 
 ## Summary
 In this project, I focus on visualization by using d3.js and dimple.js.
