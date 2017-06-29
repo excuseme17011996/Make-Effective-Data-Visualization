@@ -25,17 +25,17 @@ Modification made: (after Feedback)
 
 ## Feedback
 
-Person 1:
+### Person 1:
 For the uninitiated, could you explain what the batting average means and if higher or lower is better?
 
-Person 2:
+### Person 2:
 There are some typos and grammar mistakes that should be fixed:
 “Is it a gereral trend to have”
 “ Overweight players tend to be better performance”
 “players are better performance in batting”
 Otherwise nice job!
 
-Person 3:
+### Person 3:
 The graphs are easy to recognize.
 The only one thing I find is that the ticks in the bar charts are not consistent.
 
